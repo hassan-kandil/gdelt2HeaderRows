@@ -1,5 +1,5 @@
 	tableId	dataType	Empty	Description
-1	date	TIMESTAMP	NULLABLE	
+1	date	INTEGER	NULLABLE	
 2	url		STRING	NULLABLE	
 3	lang	STRING	NULLABLE	
 4	polarity	FLOAT	NULLABLE	
