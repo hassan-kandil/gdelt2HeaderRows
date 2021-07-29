@@ -1,0 +1,8 @@
+	tableId	dataType	Empty	Description
+1	date	INTEGER	NULLABLE	
+2	url		STRING	NULLABLE	
+3	lang	STRING	NULLABLE	
+4	polarity	FLOAT	NULLABLE	
+5	magnitude	FLOAT	NULLABLE	
+6	score	FLOAT	NULLABLE	
+7	entities	STRING	NULLABLE
