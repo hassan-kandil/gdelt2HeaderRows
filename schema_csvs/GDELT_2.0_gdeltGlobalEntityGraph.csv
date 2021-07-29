@@ -1,0 +1,8 @@
+tableId,dataType,Empty,Description
+date,INTEGER,NULLABLE,
+url,STRING,NULLABLE,
+lang,STRING,NULLABLE,
+polarity,FLOAT,NULLABLE,
+magnitude,FLOAT,NULLABLE,
+score,FLOAT,NULLABLE,
+entities,STRING,NULLABLE,
